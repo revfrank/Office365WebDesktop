@@ -1,34 +1,34 @@
 # Office365WebDesktop
 
-Este Proyecto basado en un WebView en [Electrojs](https://www.electronjs.org/) de la versión de office 365, el cual se creó para un fácil acceso y de uso para las distribuciones Linux con Snap, en la version 0.6.3 se cuenta con su primera versión portable para Windows. 
+This Project based on a WebView in [Electrojs](https://www.electronjs.org/) of the office 365 version, which was created for easy access and use for Linux distributions with Snap, in the version 0.6.3 has its first portable version for Windows.
 
-## Requisitos 
+## Requirements
 
-Para poder instalar esta aplicación en linux es necesario _[snap](https://snapcraft.io/)_, en las distribuciones de linux permitidas. 
+In order to install this application on linux, _[snap](https://snapcraft.io/)_ is necessary, in the allowed linux distributions.
 
 * [**nodejs**](https://nodejs.org)
 
->Para la version de windows es similar pero en windows no es necesario el uso de snap para su instalacion.
+>For the windows version it is similar but in windows it is not necessary to use snap for its installation.
 
-## Como instalar
+## How to install
 
-Se puede instalar el paquete de [![office365webdesktop](https://snapcraft.io/office365webdesktop/badge.svg)](https://snapcraft.io/office365webdesktop)
- directamente desde Snap Store con el siguiente comando
+You can install the [![office365webdesktop](https://snapcraft.io/office365webdesktop/badge.svg)](https://snapcraft.io/office365webdesktop) bundle
+ directly from the Snap Store with the following command
 
     $ sudo snap install office365webdesktop --beta
 
-para windows descargas el archivo .exe de nuestro _[***Release***](https://github.com/rafgui12/Office365WebDesktop/releases/tag/VersionB0.7.0)_ y ejecutas el programa portable  
+for windows download the .exe file of our _[***Release***](https://github.com/rafgui12/Office365WebDesktop/releases/tag/VersionB0.7.0)_ and run the portable program
 
-## Ejecutando el entorno de desarrollo
+## Running the development environment
 
-puedes ejecutar el proyecto, clonando el repositorio y desde tu directorio local escribiendo los comandos
+you can run the project, cloning the repository and from your local directory typing the commands
 
-    $ git clone https://github.com/rafgui12/Office365WebDesktop.git
-    $ cd Office365WebDesktop
-    $ npm install
-    $ npm start
+    git clone https://github.com/rafgui12/Office365WebDesktop.git
+    cd Office365WebDesktop
+    npm install
+    npm start
     
-> Recuerda que puedes contribuir a este proyecto, este aplicativo esta basado en [Electrojs](https://www.electronjs.org/) y se necesitara _[nodejs](https://nodejs.org)_, (`.npm`) y de _[snap](https://snapcraft.io/)_ para poder compilarlo
+> Remember that you can contribute to this project, this application is based on [Electrojs](https://www.electronjs.org/) and you will need _[nodejs](https://nodejs.org)_, (`. npm`) and _[snap](https://snapcraft.io/)_ in order to compile it
 
 ___
 
@@ -42,12 +42,10 @@ ___
 
 This project is licensed under the MIT License - see [LICENSE](https://github.com/rafgui12/Office365WebDesktop/LICENSE.md) for details.
 
-**Office365** or **Office 365** the name, website, images/icons and code are the intellectual properties of [Microsoft](https://www.microsoft.com/), [Office365](https://www.office.com/).
+**Office365** or **Office 365** the name, website, images/icons and code are the intellectual properties of [Microsoft](https://www.microsoft.com/), [Office365](https:/ /www.office.com/).
 
-## Donaciones 
+## Donations
 
-Este proyecto es para todos y nunca sin importar las mejoras tendrá un costo, pero dejo este espacio para todos los que quieran a poyar a este proyecto y todo lo donado será para las mejoras y el equipo para la mejorar la experiencia sobre este proyecto. 
+This project is for everyone and never regardless of the improvements will have a cost, but I leave this space for everyone who wants to support this project and everything donated will be for the improvements and the equipment to improve the experience on this project.
 
-[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=TZ7BBQZ9TQFR4&no_recurring=0&item_name=The+donated+will+be+for+the+improvements+and+the+equipment+for+the+best+experience+on+this+project.&currency_code=USD)
-
-
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=TZ7BBQZ9TQFR4&no_recurring=0&item_name=The +donated+will+be+for+the+improvements+and+the+equipment+for+the+best+experience+on+this+project.&currency_code=USD)
